@@ -4,7 +4,7 @@ You will write **JavaScript** using **Atom**, manage your code using **Git** and
 
 [Programming Language](https://en.wikipedia.org/wiki/Programming_language): [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-[Source Code Editor](https://en.wikipedia.org/wiki/Source_code_editor): [Atom](https://en.wikipedia.org/wiki/Atom_(text_editor)
+[Source Code Editor](https://en.wikipedia.org/wiki/Source_code_editor): [Atom](https://en.wikipedia.org/wiki/Atom_(text_editor))
 
 [Version Control](https://en.wikipedia.org/wiki/Version_control): [Git](https://en.wikipedia.org/wiki/Git) and [GitHub](https://en.wikipedia.org/wiki/GitHub)
 
